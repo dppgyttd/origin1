@@ -51,6 +51,8 @@ public class JDBCDemo02 {
             //4.获取生日
             Date birthday = resultSet.getDate("birthday");
           
+        int i = 1;
+            System.out.println("hhh");
         }
 
 
