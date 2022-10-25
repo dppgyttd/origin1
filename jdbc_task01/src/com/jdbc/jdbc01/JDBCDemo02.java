@@ -54,6 +54,8 @@ public class JDBCDemo02 {
             System.out.println("dsjf");
             System.out.println("joe9");
           
+        int i = 1;
+            System.out.println("hhh");
         }
 
 
