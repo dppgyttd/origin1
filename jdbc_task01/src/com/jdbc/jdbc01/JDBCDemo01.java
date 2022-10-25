@@ -24,7 +24,7 @@ public class JDBCDemo01 {
         //通过statement对象的excuteupdate方法创建表
         String sql = "create table test(id int,name varchar(20),age int)";
         statement.executeUpdate(sql);
-
+        System.out.println("dsf");
         //关闭流
         statement.close();
         con.close();
