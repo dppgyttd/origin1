@@ -50,6 +50,9 @@ public class JDBCDemo02 {
 
             //4.获取生日
             Date birthday = resultSet.getDate("birthday");
+
+            System.out.println("dsjf");
+            System.out.println("joe9");
           
         }
 
