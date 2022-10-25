@@ -28,6 +28,7 @@ public class JDBCDemo01 {
         //关闭流
         statement.close();
         con.close();
+        //百叶
 
 
     }
